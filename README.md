@@ -1,7 +1,3 @@
-### Hi! I'm Mateus Lima 👋
-
-- 🔭 Currently working as a Back-end developer
-- 🌱 Nowadays I'm studying Spring WebFlux
 
 <div align="center">
   <a href="https://github.com/MateusLima96">
